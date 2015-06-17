@@ -5,6 +5,7 @@
 #   \ \ /\ / /| '_ \| | __/ _ \ |_| |/ _` | __|                                #
 #    \ V  V / | | | | | ||  __/  _  | (_| | |_                                 #
 #     \_/\_/  |_| |_|_|\__\___|_| |_|\__,_|\__|                                #
+#                                                Hacker404                     #
 #                                                                              #
 # against.py - mass scanning and brute-forcing script for ssh                  #
 #                                                                              #
