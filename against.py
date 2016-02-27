@@ -5,7 +5,7 @@
 #   \ \ /\ / /| '_ \| | __/ _ \ |_| |/ _` | __|                                #
 #    \ V  V / | | | | | ||  __/  _  | (_| | |_                                 #
 #     \_/\_/  |_| |_|_|\__\___|_| |_|\__,_|\__|                                #
-#                                                Hacker404                     #
+#                                           https://github.com/MrMugiwara      #
 #                                                                              #
 # against.py - mass scanning and brute-forcing script for ssh                  #
 #                                                                              #
@@ -22,7 +22,7 @@
 # parallel all discovered hosts or given ip addresses from a list.             #
 #                                                                              #
 # AUTHOR                                                                       #
-# pgt - Hacker404                                          #
+# pgt - https://github.com/MrMugiwara                                          #
 #                                                                              #
 # TODO                                                                         #
 # - keyboard-interactive handler                                               #
@@ -63,7 +63,7 @@ VERSION = 'v0.2'
 
 # print our nice banner ;)
 def banner():
-    print '--==[ against.py by pgt@nullsecurity.net ]==--'
+    print '--==[ against.py by https://github.com/MrMugiwara ]==--'
 
 # print version
 def version():
